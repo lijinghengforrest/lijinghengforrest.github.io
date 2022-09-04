@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://lijingheng.com</id>
+    <title>lijingheng.com</title>
+    <updated>2022-09-04T07:18:18.795Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://lijingheng.com"/>
+    <link rel="self" href="https://lijingheng.com/atom.xml"/>
+    <subtitle>记录·Forrest·李敬恒·精彩人生</subtitle>
+    <logo>https://lijingheng.com/images/avatar.png</logo>
+    <icon>https://lijingheng.com/favicon.ico</icon>
+    <rights>All rights reserved 2022, lijingheng.com</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello 大家好，我是李敬恒，我出生啦！]]></title>
+        <id>https://lijingheng.com/post/hello-world/</id>
+        <link href="https://lijingheng.com/post/hello-world/">
+        </link>
+        <updated>2022-06-30T09:10:00.000Z</updated>
+    </entry>
+</feed>
